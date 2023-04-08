@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.form-control{
+	width: 800px;
+	
+	
+}
+
+.btn{
+	background: green;
+	color: white;
+}	
